@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [WizPageConnectionCustom.cs](./CS/WizPageConnectionCustom.cs) (VB: [WizPageConnectionCustom.vb](./VB/WizPageConnectionCustom.vb))
+* [WizPageDataOption.cs](./CS/WizPageDataOption.cs) (VB: [WizPageDataOption.vb](./VB/WizPageDataOption.vb))
+* [WizPageQuery.cs](./CS/WizPageQuery.cs) (VB: [WizPageQuery.vb](./VB/WizPageQuery.vb))
+<!-- default file list end -->
 # How to customize an old version of the Report Wizard (that was used up to version 13.2)
 
 
